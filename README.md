@@ -1,3 +1,7 @@
+#Taller #1 :
+Estudiante : Gabriel Emilio Jhoans Pino Jaimes
+Clase Construccionde aplicaciones web 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
