@@ -1,7 +1,7 @@
 # Taller #1 :
-Estudiante : Gabriel Emilio Jhoans Pino Jaimes
+Estudiante : Gabriel Emilio Jhoans Pino Jaimes.
 
-Clase Construccionde aplicaciones web 
+Clase Construccionde aplicaciones web.
 
 # React + Vite
 
